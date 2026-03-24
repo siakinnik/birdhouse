@@ -5,6 +5,11 @@ The model is optimized for easy printing and outdoor use.
 
 This project provides a lightweight birdhouse that can be printed on most consumer 3D printers and mounted outdoors.
 
+♻️ Print responsibly!
+
+This is a fairly large model (~500 g of PETG)!
+Do not start printing if you’re unsure of the outcome!
+Whenever possible, reuse the model multiple times to reduce plastic waste and be more eco-friendly.
 ---
 
 ## Preview
@@ -53,10 +58,14 @@ This birdhouse was printed using:
 * Layer height: **0.2 mm**
 * Infill: **15–25%**
 * Walls: **3 perimeters**
-* Supports: **not required for most printers**
-* Material: **PETG recommended for outdoor use**
+* Supports: **sometimes needed for the entrance hole — enable auto supports in your slicer if required**
+* Material: **PETG/ABS recommended for outdoor use**
+PETG or ABS is strongly recommended for outdoor use. PLA is **not suitable** as it will quickly deform or degrade under direct sunlight.
 
-PETG is preferred because it is more **UV and weather resistant** than PLA.
+Color tip:  
+Choose filament color based on your climate:  
+- In colder regions, darker colors (like black) help absorb heat.  
+- In hot climates, lighter colors are better to prevent overheating inside the birdhouse.
 
 ---
 
